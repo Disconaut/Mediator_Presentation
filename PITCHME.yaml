@@ -1,4 +1,4 @@
-
+theme-override : assets/css/PITCHME.css
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
